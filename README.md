@@ -2,7 +2,7 @@
 
 - 🌱 Atualmente sou estudante do ensino superior de Análise e Desenvolvimento de Sistemas.
 - 🖥 Apaixonado por setups.
-- 🎮 Gamer na horas vagas.
+- 🎮 Gamer nas horas vagas.
 
 <div align="center">
   <a href="https://github.com/sillmarjunior">
