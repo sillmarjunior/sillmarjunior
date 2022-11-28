@@ -4,6 +4,8 @@
 - 🖥 Apaixonado por setups.
 - 🎮 Gamer nas horas vagas.
 
+##
+
 <div align="center">
   <a href="https://github.com/sillmarjunior">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sillmarjunior&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
@@ -17,7 +19,7 @@
   <img align="center" alt="Ju-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Ju-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://github.com/sillmarjunior/sillmarjunior/blob/main/adds/eyeager.gif">
+  <img align="right" alt="Rafa-pic" height="120" style="border-radius:50px;" src="https://github.com/sillmarjunior/sillmarjunior/blob/main/adds/eyeager.gif">
 </div>
 
 ##
